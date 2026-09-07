@@ -345,7 +345,10 @@
      the link is inert (points to "#") rather than guessing a URL. */
   const SERIES_LINKS = [
       {
+          label: "Laboratory Manual I — Hands-on Qiskit Experiments", url: "https://skjaindr.github.io/Quantum-Computing.labmanual-1/" },
+      {
           label: "Volume II — Quantum Algorithms & Complexity", url: "https://skjaindr.github.io/Quantum-Computing.book-2/" }, // TODO: set to your deployed Volume II URL
+{ label: "Volume III — Quantum Hardware, Error Correction & Applications", url: "https://skjaindr.github.io/Quantum-Computing.book-3/" },  
   ];
 
   function initSeriesLinks() {
